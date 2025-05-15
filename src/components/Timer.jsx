@@ -1,7 +1,4 @@
-/* eslint-disable no-undef */
 import { useState, useEffect } from "react";
-
-// import your css module here
 
 import logo from "../assets/newlogo.svg";
 import play from "../assets/play.svg";
