@@ -39,3 +39,5 @@ To run locally:
 git clone https://github.com/AerrowV/timer-app.git
 cd timer-app
 open index.html
+```
+---
