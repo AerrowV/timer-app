@@ -1,8 +1,41 @@
-# React + Vite
+# Timer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and simple web-based timer you can use for anything — breaks, workouts, study sessions, cooking, or general time tracking.
 
-Currently, two official plugins are available:
+**Live Demo:** [timer.yumiya.dk](https://timer.yumiya.dk)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## Features
+
+- Start / Pause / Reset the timer
+- Keyboard shortcut: Spacebar to start/pause
+- Minimalist and distraction-free UI
+- Works on both desktop and mobile
+
+---
+
+## Tech Stack
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+
+---
+
+## Deployment
+
+This app is deployed via [DigitalOcean](https://www.digitalocean.com/) and hosted at:
+
+[https://timer.yumiya.dk](https://timer.yumiya.dk)
+
+---
+
+## Getting Started
+
+To run locally:
+
+```bash
+git clone https://github.com/AerrowV/timer-app.git
+cd timer-app
+open index.html
